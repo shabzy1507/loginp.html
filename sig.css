@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: azure;
+}
+.bbc {
+    background-color: white;
+    margin: 100px 400px auto 400px;
+    
+}
+h1{
+    padding-top: 20px;
+}
+form{
+    margin-top: 50px;
+}
+input[type=email],input[type=password],input[type=text]{
+    padding: 5px 450px 0 0;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    color: lightgray;
+}
+.bbb{
+    margin-right: 579px;
+    padding-bottom: 20px;
+}
+.bbd{
+    margin-right: 475px;
+    padding-bottom: 20px;
+}
+.bbe{
+    margin-right: 560px;
+    padding-bottom: 20px;
+}
+.submit{
+ 
+}
+input[type=button]{
+    border: none;
+    color: white;
+    background-color: aquamarine;
+    padding: 15px 150px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.endd{
+    padding-bottom: 30px;
+}
